@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse of right worship against idolatry and will-worship.</title>
+            <author>Warner, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67640</idno>
+            <idno type="STC">Wing W893E</idno>
+            <idno type="STC">ESTC R218420</idno>
+            <idno type="EEBO-CITATION">99830019</idno>
+            <idno type="PROQUEST">99830019</idno>
+            <idno type="VID">34466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1941:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse of right worship against idolatry and will-worship.</title>
+                  <author>Warner, James.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: James Warner.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34466:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOURSE OF Right Worſhip, AGAINST IDOLATRY AND <hi>Will-Worſhip.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:34466:2"/>
+            <pb n="1" facs="tcp:34466:2"/>
+            <head>A BRIEF DISCOURSE OF Right Worſhip, Againſt <hi>Idolatry &amp; Will-Worſhip.</hi>
+            </head>
+            <head type="sub">Worſhip not Inſtituted Unlawful.</head>
+            <p>THe word Worſhip in General from the Hebrew <hi>Shachah</hi> he Bowed, and the Greek <hi>Proskuneo,</hi> ſignifieth any bending, but in Particular, an Outward Expreſſion of inward Reverence of the Mind, uſed to God or Men.</p>
+            <p>The Queſtion then is, What Expreſſions of Reverence and Ho<g ref="char:EOLhyphen"/>nour to God, uſed by us towards him, is Accepted of him, and what is not? and we ſay,</p>
+            <p>That whatſoever Expreſſions of Reverence to God he hath not Required, he will not Accept.</p>
+            <p>As for the Diſtinctions between Matter and Manner of <hi>Worſhip,</hi> it is Frivolous, of Eſſential and Circumſtantial parts, as time and place, by Speaking and Writing, <hi>&amp;c.</hi> mentioned, as the Manner or Circumſtance of the Acts, for the matter cannot be without the manner, as time and place all things do Require: They are ſo Eſſential and Material as that Worſhip or Expreſſion of Reve<g ref="char:EOLhyphen"/>rence is moſt properly intended by it; for Reverence, which is the
+<pb n="2" facs="tcp:34466:3"/>proper matter of VVorſhip, is not ſo fully expreſſed in the word <hi>Shachah,</hi> to bow down the Body, or Worſhip as the Expreſſion or manner of Reverencing, or manner of Worſhip; therefore to Ex<g ref="char:EOLhyphen"/>clude the manner of Worſhip from Worſhip, is Ridiculous: The matter of Worſhip, to Love, Fear, Reverence, Pray to, and Praiſe God, doth not of ſo much Neceſſity come under Poſitive Revealed Inſtitution, as being Revealed by the Light of Nature, as the Heathen Poet could ſay without Scripture; <hi>Si Deus eſt Animus, nobis ut Carmina dicunt; hic tibi precipue ſit pura Mente Colendus;</hi> and therefore, herein the Heathen Idolaters Agree with us by the Light of Nature, that the God who made all things ſhould be Loved, Reverenced, Praiſed, and Prayed unto above all; and not only ſo, but even unto our Point in Controverſy, and that by the Light of Nature; for Rea<g ref="char:EOLhyphen"/>ſon ſaith, and ſo ſay they, That as God only knows him<g ref="char:EOLhyphen"/>ſelf, ſo he alone can Declare what pleaſeth the Divine Being; we can tell what would pleaſe a Man, becauſe we are Men; but we cannot tell how to pleaſe God, unleſs we were Gods; So ſaith the Apoſtle, 1 Cor. 2.11. <hi>As the Spirit of Man only knoweth the things of Man, ſo the things of God</hi> (and his mind is the Main thing there ſpoken of, as is Ex<g ref="char:EOLhyphen"/>plain'd in the laſt Verſe, <hi>We have the Mind of Chriſt</hi>) <hi>knoweth no Man but the Spirit of God;</hi> Therefore the Hea<g ref="char:EOLhyphen"/>then Prieſts perſwaded them <hi>That their Image fell down from Jupiter,</hi> Acts 19.35. or it had not been uſed by them. Our Conteſt then is with Men of Groſſer Opinions therein, then the Heathen, for they own Inſtitution neceſſary to the man<g ref="char:EOLhyphen"/>ner of Reverencing God; Now, that he accepts not what he Requires not, he himſelf declares; wherefore elſe doth he ask who hath Required this at your hands, if he would ac<g ref="char:EOLhyphen"/>cept it, although he did not Require it? for the meaning is, <hi>Did I ever Require ſuch Wicked Men to tread my Courts?</hi> Iſaiah 1.12.</p>
+            <p>Again, In vain do you Worſhip me, teaching for Doct<g ref="char:EOLhyphen"/>rines the Commands of Men, <hi>Mat.</hi> 15.8, 9, <hi>Iſaiah</hi> 29.13.</p>
+            <pb n="3" facs="tcp:34466:3"/>
+            <p>
+               <hi>Iſraels</hi> uſing a manner of their own Inventions, was the Devil-Worſhip they were Charged with, therefore they were bidden to bring their Sacrifice to the Door of the Ta<g ref="char:EOLhyphen"/>bernacle, that they Worſhiped no more to Devils, <hi>Levit.</hi> 17.4, 7. They made a Calf, and after that manner which was the <hi>Egyptian</hi> manner, they Worſhiped God, and yet ſaid to be to Devils. <hi>Deut.</hi> 32.17. <hi>They Sacrific'd to Devils, and not to God;</hi> 2 Cor. 11.14. And no Marvel; <hi>for Satan himſelf is Transform'd into an Angel of Light;</hi> 1 Cor. 10.20. <hi>But I ſay, That the things which the</hi> Gentiles <hi>Sacrifice, they Sacrifice to Devils, and not to God; and I would not that you ſhould have fellowſhip with Devils.</hi> Rev. 9.20. — <hi>That they ſhould not Worſhip Devils;</hi> The like ſaid of <hi>Jereboams</hi> Ido<g ref="char:EOLhyphen"/>latry; 2 Chron. 11.15. <hi>And he Ordained him Prieſts for the high Places, and for the Devils, and for the Calves which he had made.</hi> Now, that this Devil-Worſhip Conſiſted in being Deviſed by their own Imaginations, the Scriptures following do Declare, 1 <hi>Kings</hi> 12.33. <hi>So he offered upon the Altar which he had made in</hi> Bethel, <hi>the fifteenth day of the eighth Month, even in the Month which he had Deviſed of his own heart:</hi>
+            </p>
+            <p>
+               <hi>Of</hi> Iſrael 'tis ſaid, <hi>Pſal.</hi> 106.29, &amp; 39. <hi>Thus they Provoked him to Anger with their Inventions:</hi> what they were, read Verſe 28. in theſe words; <hi>They joined themſelves alſo unto</hi> Baal-peor, <hi>and eat the Sacrifices of the Dead.</hi> Verſe 38 ſaith, <hi>They Sacrificed their Sons and their Daughters unto the Idols of</hi> Canaan, Verſe 39. <hi>Thus were they Defiled with their own Works, and went a Whoring with their own Inventions.</hi> Pſal 99.8. <hi>Thou Tookest Vengeance of their In<g ref="char:EOLhyphen"/>ventions,</hi> Heb. <hi>Gnelilotham,</hi> their Doings, meaning their Idola<g ref="char:EOLhyphen"/>try, which is elſewhere called, Walking after the Imagination of their own Heart: <hi>Jer.</hi> 9.14. Heb. <hi>Achare Sherirut Libbam,</hi> after the Stubborn perverſe Imaginations of their Hearts, and after <hi>Baalam</hi> which their Fathers taught them: for farther Demonſtra<g ref="char:EOLhyphen"/>tion Conſult. <hi>Jer.</hi> 23.17. &amp; 7.24. <hi>Deut.</hi> 29.19. <hi>Rom.</hi> 1.21. 'Twas Death under the Diſpenſation of the Law, to alter the manner of the Worſhip Commanded by uſing their own Inventions, ſo as to offer in other places, or after another manner.</p>
+            <pb n="4" facs="tcp:34466:4"/>
+            <p>And if God was ſo zealous of the Manner of his Worſhip then, as given forth by <hi>Moſes,</hi> as to ſlay <hi>Nadab</hi> and <hi>Abihu</hi> for offering Fire not Commanded, <hi>Lev</hi> 10.1, 2, 3, <hi>&amp;c.</hi> and ſmote 50000, as 1 <hi>Sam.</hi> 6.19. And he ſmote the men of <hi>Bethſhemeſh,</hi> becauſe they had looked into the Ark of the Lord. <hi>
+                  <g ref="char:V">Ʋ</g>zzah</hi> for laying hold on it, 2 <hi>Sam.</hi> 6.3, 6, 7. Becauſe they brought it not after the man<g ref="char:EOLhyphen"/>ner Commanded, <hi>Numb.</hi> 4.15. 1 <hi>Chron.</hi> 13.7, 8. and 9, 10. See chap. 15. 11, 12, 13. How can we Imagine God will bear with the Affront offered to his Son, by whom he hath compleated the Revelation of his Will, who came out of the Boſome of God to ſhew us fully how we ſhall be Accepted with him, and how we ſhall Expreſs our Reverence to him; For perſons to Reject this, and follow their own proud Inventions, they do more than we deny the Authority of Chriſt. For if God had left the Manner to our ſelves, having given by Nature the Knowledge of the Mat<g ref="char:EOLhyphen"/>ter, where is the Neceſſity of <hi>Christs</hi> prophetical Office? Indeed Mr. <hi>R. B.</hi> to ſhew his Invention, offers many Inſtances of Wor<g ref="char:EOLhyphen"/>ſhip about the manner and ordering Gods Inſtitutions, which he ſaith man may and muſt chooſe himſelf, without any particular Inſtitution of God, <hi>page</hi> 4. Which he calleth the Right Ordering of Gods Inſtitutions, ſuch as is commanded by him, and a Duty. Now how a man can Rightly Order Inſtitutions without a Rule? How he can Order them as is commanded, and yet there is no command about Ordering of them. How this Duty can be per<g ref="char:EOLhyphen"/>formed while there is no Law to Require it, he ſhould have ſhew<g ref="char:EOLhyphen"/>ed, if he would not be thought contradictory to himſelf, But that's omitted. If he meaneth (or it hath no meaning) That there are General Laws Inſtituted to direct us in Right Ordering par<g ref="char:EOLhyphen"/>ticular Inſtitutions, ſo as to declare ſuch a Mode, Manner or Or<g ref="char:EOLhyphen"/>der to be Commanded, and a Duty required in the Scripture, al<g ref="char:EOLhyphen"/>though <hi>in Totidem Verbis,</hi> they were not ſo expreſſed, We are a<g ref="char:EOLhyphen"/>greed, and only deſire him to do as he ſaith.</p>
+            <p>But Mr. <hi>R. B.</hi> will needs go to Church, now Nonconformity is out of faſhion, and would have all turn with him, though it
+<pb n="5" facs="tcp:34466:4"/>look moſt like <hi>Babylon,</hi> while they are Perſecuting the Saints; yet now is he Enamoured with its Beauty.</p>
+            <p>In Brief, to preſent him the Features of that he hath forſa<g ref="char:EOLhyphen"/>ken, with what he hath Embraced, he may behold
+<list>
+                  <item>The True Church and Spouſe hath Chriſt for its immediate and only Head and Governour, by the Ap<g ref="char:EOLhyphen"/>pointment of the Father; and as ſuch hath ſet in his Church, Apoſtles, Pro<g ref="char:EOLhyphen"/>phets, Paſtors, Teachers, Endowed with the Spirit for the Edification of the whole Body; until we come to the Meaſure of the Stature of the Fulneſs of Chriſt: <hi>Eph.</hi> 4. Unto a Perfect Man in Chriſt, unto which Head the Church is to be Obe<g ref="char:EOLhyphen"/>dient in all things, and to hear his Voice, and not a Strangers: <hi>John</hi> 10.4, 5.</item>
+                  <item>The Falſe Church hath a Man for its immediate and only Head and Go<g ref="char:EOLhyphen"/>vernour, under the Pow<g ref="char:EOLhyphen"/>er of Satan, being not Converted: And as ſuch Ordaineth Arch-Biſhops and Biſhops, and they Par<g ref="char:EOLhyphen"/>ſons and Curates, En<g ref="char:EOLhyphen"/>dowed with a Liturgy; Conſtituted by, and may be Altered at Humane Pleaſure: unto which De<g ref="char:EOLhyphen"/>vice and Appointment, they are to be in all points Obedient, into what ſhape ſoever Authority ſhall cauſe it to be Moulded.</item>
+               </list>
+            </p>
+            <p>Now what Communion Chriſt hath with <hi>Belial,</hi> or Light with Darkneſs, The Temple of God with Idols, 2 <hi>Cor.</hi> 6.15, 16. ſhews, which is none at all.</p>
+            <pb n="6" facs="tcp:34466:5"/>
+            <p>That to ſerve God in a manner of our own Deviſing is I<g ref="char:EOLhyphen"/>dolatry, and the breach of the Second Commandment, is Evi<g ref="char:EOLhyphen"/>dently Signifyed by the Word Idolatry, or the Serving God by Images, which was a known Species of the Genus of Humane Deviſed Manner of VVorſhiping God, and therefore the Church<g ref="char:EOLhyphen"/>men ſay on the ſecond Command, there are two kinds of Idolatry forbidden, the worſhiping a falſe God in the firſt Command, and the worſhiping the true God after a falſe manner, by the ſecond Command.</p>
+            <p>Mr. <hi>R. B.</hi> would be left at Liberty, as to the Manner of VVorſhip, and therefore may with the Papiſts leave out the ſe<g ref="char:EOLhyphen"/>cond Command, and they are agreed.</p>
+            <p>VVhile all who deſire to be Accepted with God, are warned to follow Divine Inſtitution, or their Service will be Rejected.</p>
+            <closer>
+               <signed>James Warner.</signed>
+            </closer>
+            <pb facs="tcp:34466:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
